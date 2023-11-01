@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "typescript": "^4.2.3"
+    "typescript": "^5.0.0"
   },
   "name": "typescript",
   "version": "1.0.0",
